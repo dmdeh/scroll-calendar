@@ -8,14 +8,6 @@
 
 ---
 
-## Installation
-
-```bash
-npm install react-custom-calendar
-```
-
----
-
 ## Usage
 
 ```tsx
